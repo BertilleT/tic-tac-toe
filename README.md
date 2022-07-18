@@ -4,5 +4,5 @@ Once the project's code downloaded, please run the following command from your t
 g++ ttt.cpp ttt_functions.cpp
 ./a.out
 
-#It does not work ? 
+# It does not work ? 
 Please, make sure you have C++ installed correctly. 
