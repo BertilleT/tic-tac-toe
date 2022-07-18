@@ -6,4 +6,4 @@ g++ ttt.cpp ttt_functions.cpp
 ./a.out
 ```
 # It does not work ? 
-Please, make sure you have C++ installed correctly. 
+Please, make sure you have C++ correctly installed. 
